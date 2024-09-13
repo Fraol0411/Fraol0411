@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://fraolwebdev.netlify.app/)
 <h1 align="center">Hi 👋, I'm Firaol Dabi</h1>
 <h3 align="center">A Software Developer Placed in Ethiopia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/5046932/screenshots/14752531/media/f0ee39e0737241c8154cddb17804ecfe.jpg?resize=400x300&vertical=center.gif"/>
