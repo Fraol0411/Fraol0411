@@ -1,5 +1,5 @@
 <a href="https://fraolwebdev.netlify.app/">
-  <img src="https://th.bing.com/th/id/OIP.VAwe0adf9cmd-GUSRjEOVAHaFj?rs=1&pid=ImgDetMain.gif" alt="MasterHead" width="1200" height="200"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVmZDM3YWJrYWdhYWMzMTJ4bjBobzN4NnYyaGU3d3NpNXJmZGlrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="MasterHead" width="1200" height="300"/>
 </a>
 
 <h1 align="center">Hi 👋, I'm Firaol Dabi</h1>
